@@ -1,1 +1,1 @@
-# Euclidean_and_Manhattan_Distances_Case_Study
+# Euclidean and Manhattan Distances Case Study
